@@ -25,9 +25,9 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://www.heroku.com/)](https://www.heroku.com/) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://jquery.com/)](https://jquery.com/) 
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://nodejs.org/en/)](https://nodejs.org/en/) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://docs.docker.com/)](https://docs.docker.com/) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://habr.com/ru/post/554274/)](https://habr.com/ru/post/554274/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://git-scm.com/) 
