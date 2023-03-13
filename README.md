@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cpt-nemmo" id="counter">
+</p>
+
 ### Hi there 👋
 
     
@@ -33,5 +37,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://git-scm.com/) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://www.mongodb.com/) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpt-nemmo&theme=radical&title_color=8E2DE2&text_color=fff)
 
 
