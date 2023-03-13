@@ -8,7 +8,8 @@
 ### Portfolio: https://brdhanani.github.io
 
 
-![The force always will be with you]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/cpt-nemmo/cpt-nemmo/blob/main/baby-yoda-9.gif))
+![The force always will be with you](https://github.com/cpt-nemmo/cpt-nemmo/blob/main/baby-yoda-9.gif)
+  
   
 ### 👨‍💻 Languages and Tools
 
