@@ -7,11 +7,11 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Portfolio: https://brdhanani.github.io
+
 
 ### Hello! I'm Yakov Fedoseev a Full Stack Developer from Russia.
 
-
+### Portfolio: https://brdhanani.github.io
 
 
 ![The force always will be with you](https://github.com/cpt-nemmo/cpt-nemmo/blob/main/baby-yoda-9.gif)
