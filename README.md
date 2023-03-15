@@ -38,6 +38,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://git-scm.com/) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://www.mongodb.com/) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/cpt-nemmo/Simple-Python-Methods)](https://github.com/cpt-nemmo/Simple-Python-Methods) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpt-nemmo&theme=radical&title_color=8E2DE2&text_color=fff)
 
