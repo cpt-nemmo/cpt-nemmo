@@ -60,7 +60,10 @@
       </style>
 
       <div class="container">
-        <h1>Try. <div class="hi">👋</div></h1>
+        <h1><a style="font-size: 72px;
+  background: -webkit-linear-gradient(#33FF96, #33D1FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">Try. </a><div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
