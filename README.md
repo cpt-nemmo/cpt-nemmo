@@ -1,3 +1,3 @@
 <div align="center">
-  <a href="https://cpt-nemmo.github.io"><img src="main.svg"></a>
+  <a href="https://ysfedoseev.ru/"><img src="index.svg"></a>
 </div>
